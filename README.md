@@ -1,2 +1,2 @@
 # 36-350
-36-350 (Statistical Computing)
+This is Edric Eun's 36-350 Git Repository made for the class Statistical Computing.
